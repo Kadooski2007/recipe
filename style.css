@@ -1,0 +1,541 @@
+
+        body{
+            background-color:hsl(30, 54%, 90%) ;
+            
+        }
+        .reipe{
+            width: 680px;
+            top: 90px;
+            position: relative;
+            left: 350px;
+            background-color: white;
+            height: 1640px;
+            border-radius: 15px;
+        }
+        .food{
+            position: relative;
+            left: 43px;
+            top: 40px;
+            width: 590px;
+            border-radius: 10px;
+        }
+        #pam{
+            margin-top: 63px;
+            color: hsl(14, 45%, 36%);
+            margin-left: 43px;
+            width: 343px;
+            font-size: 30px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        #loving{
+            margin-top: -13px;
+            margin-left: 43px;
+            width: 605px;
+            font-size: 17px;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        #plantain{
+            margin-top: -10px;
+            margin-left: 43px;
+            font-size: 17px;
+            width: 605px;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        .big{
+            width: 590px;
+            margin-top: 50px;
+            margin-left: 43px;
+            background-color: hsl(30, 54%, 90%);
+            height: 160px;
+            border-radius: 15px;
+        }
+        #test{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+            width: 158px;
+            margin-left: 30px;
+            position: relative;
+            top: 22px;
+            color: hsl(14, 45%, 36%);
+        }
+        .circle{
+            position: relative;
+            bottom: 3px;
+            list-style-type: disc;
+        }
+        #tomas{
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+            font-size: 17px;
+            left: 57px;
+            width: 50px;
+            color: hsl(14, 45%, 36%);
+            position: relative;
+            bottom: 39px;
+        }
+        #single{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+            font-size: 17px;
+            width: 198px;
+            left: 100px;
+            position: relative;
+            bottom: 77px;
+        }
+        .curly{
+            position: relative;
+            bottom: 83px;
+            list-style-type: disc;
+        }
+        #thomas{
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+            font-size: 17px;
+            width: 50px;
+            left: 57px;
+            color: hsl(14, 45%, 36%);
+            position: relative;
+            bottom: 119px;
+        }
+        #sink{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+            font-size: 17px;
+            left: 150px;
+            position: relative;
+            width: 100px;
+            bottom: 157px;
+        }
+        .cumb{
+            position: relative;
+            bottom: 163px;
+            list-style-type: disc;
+        }
+        #jerry{
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+            font-size: 17px;
+            left: 57px;
+            width: 50px;
+            color: hsl(14, 45%, 36%);
+            position: relative;
+            bottom: 199px;
+        }
+        #clark{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+            font-size: 17px;
+            left: 124px;
+            width: 90px;
+            position: relative;
+            bottom: 236px;
+        }
+        #hide{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+            margin-top: 33px;
+            margin-left: 43px;
+            width: 94px;
+            font-size: 30px;
+            color: hsl(14, 45%, 36%);
+        }
+        .cummerce{
+            position: relative;
+            left: 20px;
+            bottom: 13px;
+            list-style-type: disc;
+        }
+        #ewo{
+            font-family: 'Times New Roman', Times, serif ;
+            font-size: 20px;
+            width: 115px;
+            left: 77px;
+            position: relative;
+            bottom: 53px;
+        }
+        .tumor{
+            position: relative;
+            left: 20px;
+            bottom: 60px;
+            list-style-type: disc;
+             
+        }
+        #bank{
+            font-family: 'Times New Roman', Times, serif ;
+            font-size: 20px;
+            left: 77px;
+            width: 99px;
+            position: relative;
+            bottom: 101px;
+        }
+        .tumise{
+            position: relative;
+            left: 20px;
+            bottom: 108px;
+            list-style-type: disc;
+        }
+        #bankrupt{
+            font-family: 'Times New Roman', Times, serif ;
+            font-size: 20px;
+            left: 77px;
+            width: 129px;
+            position: relative;
+            bottom: 147px;
+        }
+        .baptise{
+            position: relative;
+            left: 20px;
+            bottom: 154px;
+            list-style-type: disc;
+        }
+        #bapt{
+            font-family: 'Times New Roman', Times, serif ;
+            font-size: 20px;
+            left: 77px;
+            width: 230px;
+            position: relative;
+            bottom: 194px;
+        }
+        .baptismal{
+            position: relative;
+            left: 20px;
+            bottom: 200px;
+            list-style-type: disc;
+        }
+        #baba{
+         font-family: 'Times New Roman', Times, serif ;
+         font-size: 20px;
+         left: 77px;
+         width: 495px;
+         position: relative;
+         bottom: 241px;
+        }
+        #horic{
+            width: 590px;
+            position: relative;
+            right: 2px;
+            bottom: 230px;
+            border: 1px  solid black;
+            border-top: 5px;
+        }
+        #winners{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+            position: relative;
+            width: 130px;
+            bottom: 230px;
+            margin-left: 43px;
+            font-size: 30px;
+            color:hsl(14, 45%, 36%);
+        }
+        #turf{
+            position: relative;
+            left: 40px;
+            bottom: 240px;
+            color: hsl(14, 45%, 36%) ;
+            font-size: 18px;
+            width: 30px;
+        }
+        #selin{
+            color: hsl(14, 45%, 36%) ;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+            font-size: 16px;
+            left: 77px;
+            position: relative;
+            width: 200px;
+            bottom: 278px;
+        }
+        #archived{
+            font-size: 16px;
+            left: 182px;
+            bottom: 311px;
+            width: 451px;
+            position: relative;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        #ninja{
+            font-size: 16px;
+            left: 76px;
+            width: 510px;
+            bottom: 322px;
+            position: relative;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        #toughest{
+            position: relative;
+            left: 40px;
+            bottom: 330px;
+            color: hsl(14, 45%, 36%) ;
+            font-size: 18px;
+            width: 30px;
+        }
+        #rhythm{
+            color: hsl(14, 45%, 36%) ;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+            font-size: 16px;
+            width: 130px;
+            left: 77px;
+            position: relative;
+            bottom: 368px;
+        }
+        #papa{
+            font-size: 16px;
+            left: 176px;
+            width: 435px;
+            bottom: 401px;
+            position: relative;
+            font-family: 'Times New Roman', Times, serif;
+        }
+         #tougher{
+            position: relative;
+            left: 40px;
+            bottom: 410px;
+            width: 30px;
+            color: hsl(14, 45%, 36%) ;
+            font-size: 18px;
+         }
+         #carrace{
+            color: hsl(14, 45%, 36%) ;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+            font-size: 16px;
+            left: 77px;
+            position: relative;
+            width: 150px;
+            bottom: 447px;
+         }
+         #mtchew{
+            font-size: 16px;
+            width: 406px;
+            left: 214px;
+            bottom: 480px;
+            position: relative;
+            font-family: 'Times New Roman', Times, serif;
+         }
+         #sorry{
+            font-size: 16px;
+            left: 76px;
+            bottom: 491px;
+            position: relative;
+            width: 300px;
+            font-family: 'Times New Roman', Times, serif;
+         }
+         #bedsheet{
+            position: relative;
+            left: 40px;
+            bottom: 497px;
+            width: 30px;
+            color: hsl(14, 45%, 36%) ;
+            font-size: 18px;
+         }
+         #fisher{
+            color: hsl(14, 45%, 36%) ;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+            font-size: 16px;
+            left: 77px;
+            position: relative;
+            bottom: 535px;
+            width: 150px;
+         }
+         #held{
+            font-size: 16px;
+            left: 236px;
+            bottom: 567px;
+            position: relative;
+            width: 390px;
+            font-family: 'Times New Roman', Times, serif;
+         }
+         #ewu{
+            font-size: 16px;
+            width: 505px;
+            left: 76px;
+            bottom: 579px;
+            position: relative;
+            font-family: 'Times New Roman', Times, serif;
+         }
+         #meetings{
+            position: relative;
+            left: 40px;
+            width: 30px;
+            bottom: 585px;
+            color: hsl(14, 45%, 36%) ;
+            font-size: 18px;
+         }
+         #fold{
+            color: hsl(14, 45%, 36%) ;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+            font-size: 16px;
+            left: 77px;
+            width: 107px;
+            position: relative;
+            bottom: 622px;
+         }
+         #faded{
+            font-size: 16px;
+            left: 194px;
+            width: 440px;
+            bottom: 654px;
+            position: relative;
+            font-family: 'Times New Roman', Times, serif;
+         }
+         #oven{
+            font-size: 16px;
+            left: 76px;
+            width: 470px;
+            bottom: 665px;
+            position: relative;
+            font-family: 'Times New Roman', Times, serif;
+         }
+         #chibuzo{
+            position: relative;
+            left: 40px;
+            bottom: 675px;
+            color: hsl(14, 45%, 36%) ;
+            width: 30px;
+            font-size: 18px;
+         }
+         #mummet{
+            color: hsl(14, 45%, 36%) ;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+            font-size: 16px;
+            width: 110px;
+            left: 77px;
+            position: relative;
+            bottom: 711px;
+         }
+         #diddy{
+            font-size: 16px;
+            left: 132px;
+            width: 350px;
+            bottom: 743px;
+            position: relative;
+            font-family: 'Times New Roman', Times, serif;
+         }
+         #football{
+            width: 590px;
+            position: relative;
+            right: 2px;
+            bottom: 730px;
+            border: 1px  solid black;
+            border-top: 5px;
+         }
+         #expect{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+         position: relative;
+         bottom: 740px;
+         width: 150px;
+            margin-left: 43px;
+            font-size: 30px;
+            color: hsl(14, 45%, 36%);
+         }
+         #oche{
+            font-size: 16px;
+            left: 42px;
+            width: 540px;
+            bottom: 752px;
+            color:hsl(24, 5%, 18%);
+            position: relative;
+            font-family: 'Times New Roman', Times, serif;
+         }
+         #calo{
+            color: hsl(24, 5%, 18%);
+            position: relative;
+            bottom: 740px;
+            left: 43px;
+            width: 130px;
+            font-size: 19px;
+            font-family: 'Times New Roman', Times, serif;
+         }
+         #dept{
+           color: hsl(14, 45%, 36%);
+           position: relative;
+           bottom: 779px;
+           width: 140px;
+           left: 360px;
+           font-size: 19px;
+           font-family: 'Times New Roman', Times, serif;
+         }
+         #sol{
+            width: 590px;
+            position: relative;
+            right: 2px;
+            bottom: 790px;
+            border: 1px solid black;
+            border-top: 5px;
+         }
+         #teller{
+            color: hsl(24, 5%, 18%);
+            position: relative;
+            width: 140px;
+            bottom: 790px;
+            left: 43px;
+            font-size: 19px;
+            font-family: 'Times New Roman', Times, serif;
+         }
+         #curfew{
+            color: hsl(14, 45%, 36%);
+            position: relative;
+            width: 140px;
+            bottom: 829px;
+            left: 360px;
+            font-size: 19px;
+            font-family: 'Times New Roman', Times, serif;
+         }
+         #gels{
+            width: 590px;
+            position: relative;
+            right: 2px;
+            bottom: 835px;
+            border: 1px solid black;
+            border-top: 5px;
+         }
+         #shit{
+            color: hsl(24, 5%, 18%);
+            position: relative;
+            bottom: 838px;
+            left: 43px;
+            font-size: 19px;
+            width: 140px;
+            font-family: 'Times New Roman', Times, serif;
+         }
+         #shate{
+            color: hsl(14, 45%, 36%);
+            position: relative;
+            width: 140px;
+            bottom: 879px;
+            left: 360px;
+            font-size: 19px;
+            font-family: 'Times New Roman', Times, serif;
+         }
+         #calories{
+            width: 590px;
+            position: relative;
+            right: 2px;
+            bottom: 885px;
+            border: 1px solid black;
+            border-top: 5px;
+         }
+         #sharpest{
+            color: hsl(24, 5%, 18%);
+            position: relative;
+            bottom: 888px;
+            left: 43px;
+            width: 140px;
+            font-size: 19px;
+            font-family: 'Times New Roman', Times, serif;
+         }
+         #fart{
+            color: hsl(14, 45%, 36%);
+            position: relative;
+            bottom: 929px;
+            left: 360px;
+            width: 140px;
+            font-size: 19px;
+            font-family: 'Times New Roman', Times, serif;
+         }
+         @media screen and (max-width:780px){
+            body{
+                background-color:;
+                
+            }
+            .reipe {
+                width: 680px;
+                top: 90px;
+                position: relative;
+                left: 16px;
+                background-color: white;
+                height: 1640px;
+                border-radius: 15px;
+            }
+         }
